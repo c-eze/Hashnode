@@ -1,6 +1,6 @@
 ---
 title: "What Is The Difference Between A MVC Controller And An API Controller in .NET?"
-seoTitle: "MVC vs API Controller "
+seoTitle: "MVC vs API Controller"
 seoDescription: "Learn the differences between MVC and API controllers in .NET, their roles, uses, and implementation for dynamic web and RESTful services"
 datePublished: Sun Apr 13 2025 11:57:31 GMT+0000 (Coordinated Universal Time)
 cuid: cm9flbhfl000109jm5otbce6l
